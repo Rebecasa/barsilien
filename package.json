@@ -1,5 +1,5 @@
-{ "homepage" : "https://baersilien.com/barsilien/",
-  "name": "barsilien",
+{ "name": "barsilien",
+  "homepage" : "https://baersilien.com/barsilien/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
