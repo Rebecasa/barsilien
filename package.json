@@ -1,4 +1,4 @@
-{ "homepage" : "https://baersilien.com/",
+{ "homepage" : ".",
   "name": "barsilien",
   "version": "0.1.0",
   "private": true,
