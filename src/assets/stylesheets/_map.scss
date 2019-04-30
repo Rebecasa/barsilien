@@ -1,0 +1,14 @@
+.map-container {
+  margin-left: auto;
+  height: 34vh;
+  width: 56%;
+  position: sticky !important; /* !important to override Gmaps inline CSS */
+  top: 0 !important;
+}
+
+.marker {
+  height: 20px;
+  width: 20px;
+  background-color: red;
+  border-radius: 50%;
+}
