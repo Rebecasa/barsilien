@@ -1,5 +1,6 @@
-{ "name": "barsilien",
-  "homepage" : "https://baersilien.com",
+{
+  "name": "barsilien",
+  "homepage": "https://baersilien.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -36,6 +37,7 @@
     ]
   },
   "devDependencies": {
-    "@fortawesome/fontawesome-free": "^5.8.1"
+    "@fortawesome/fontawesome-free": "^5.8.1",
+    "netlify-lambda": "^1.4.5"
   }
 }
