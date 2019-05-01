@@ -469,63 +469,6 @@ const pictures = [
   },
   "user_has_liked": false,
   "likes": {
-  "count": 29
-  },
-  "tags": [],
-  "filter": "Clarendon",
-  "comments": {
-  "count": 3
-  },
-  "type": "image",
-  "link": "https://www.instagram.com/p/BjSh1sohnz0/",
-  "location": {
-  "latitude": 52.498184364822,
-  "longitude": 13.442172110081,
-  "name": "Bärsilien",
-  "id": 1781066035532859
-  },
-  "attribution": null,
-  "users_in_photo": []
-  },
-  {
-  "id": "1786267046825583330_7021574376",
-  "user": {
-  "id": "7021574376",
-  "full_name": "Bärsilien",
-  "profile_picture": "https://scontent.cdninstagram.com/vp/a7c67f286a69228dab4382c6909a18a1/5D49D2D4/t51.2885-19/s150x150/26346083_1747665831920109_5442315303151206400_n.jpg?_nc_ht=scontent.cdninstagram.com",
-  "username": "baersilien"
-  },
-  "images": {
-  "thumbnail": {
-  "width": 150,
-  "height": 150,
-  "url": "https://scontent.cdninstagram.com/vp/f6938ada5b86d2b687739e085a5a7145/5CB6FF26/t51.2885-15/e15/s150x150/32362810_216049982509199_2541925567494619136_n.jpg?_nc_ht=scontent.cdninstagram.com"
-  },
-  "low_resolution": {
-  "width": 320,
-  "height": 320,
-  "url": "https://scontent.cdninstagram.com/vp/ab6971afa66b9cad7ba3035a0c71b1f9/5CB6C756/t51.2885-15/e15/s320x320/32362810_216049982509199_2541925567494619136_n.jpg?_nc_ht=scontent.cdninstagram.com"
-  },
-  "standard_resolution": {
-  "width": 640,
-  "height": 640,
-  "url": "https://scontent.cdninstagram.com/vp/bc7a11f332abc44cd703bcc5ddf7c41c/5CB6F5F9/t51.2885-15/e15/s640x640/32362810_216049982509199_2541925567494619136_n.jpg?_nc_ht=scontent.cdninstagram.com"
-  }
-  },
-  "created_time": "1527159824",
-  "caption": {
-  "id": "17933220625117278",
-  "text": "We are back and we want to know what is your favorite empada’s flavor?  Estamos de volta e queremos saber qual é o seu sabor favorito de empada?  #empada #berlin #brazil #bärsilien #berlincafe #cafeberlin #kreuzberg #kreuzbergcafe",
-  "created_time": "1527159824",
-  "from": {
-  "id": "7021574376",
-  "full_name": "Bärsilien",
-  "profile_picture": "https://scontent.cdninstagram.com/vp/a7c67f286a69228dab4382c6909a18a1/5D49D2D4/t51.2885-19/s150x150/26346083_1747665831920109_5442315303151206400_n.jpg?_nc_ht=scontent.cdninstagram.com",
-  "username": "baersilien"
-  }
-  },
-  "user_has_liked": false,
-  "likes": {
   "count": 43
   },
   "tags": [
