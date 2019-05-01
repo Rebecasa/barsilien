@@ -24,15 +24,20 @@ body {
   flex-direction: column;
 }
 
+.cover-container {
+  display: flex;
+  justify-content: center;
+}
+
 
 .background_image {
   background-size: cover;
   background-position: right;
   background-repeat: no-repeat;
 
-  width: -webkit-fill-available;
-  height: 89vh;
-  margin-top: 2291px;
+  width: 80%;
+  height: 100%;
+  margin-top: 1803px;
 
 }
 
@@ -60,7 +65,7 @@ body {
 @media only screen and (max-width:426px) {
 
    .background_image{
-    background-position: -36px;
     margin-top: 1883px;
+    margin-left: 198px;
   }
 }

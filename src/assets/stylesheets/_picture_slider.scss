@@ -1,6 +1,6 @@
 #pictures {
-  margin: 190px 0;
-  padding: 65px 0;
+  margin: 70px 0;
+  padding: 65px 0 0;
    h1 {
     text-align: center;
    }
@@ -45,7 +45,7 @@
   position: absolute;
   top: 50%;
   right: 25px;
-  z-index: 999;
+  z-index: 0;
   color: #fff;
 }
 
@@ -53,7 +53,7 @@
   position: absolute;
   top: 50%;
   left: 25px;
-  z-index: 999;
+  z-index: 0;
   color: #fff;
 }
 
