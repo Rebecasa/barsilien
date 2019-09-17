@@ -4,7 +4,7 @@ const Picture = (props) => {
   return (
     <div className= "picture"
          style={{
-         backgroundImage: `url(${props.picture.images.standard_resolution.url})`,
+         backgroundImage: `url(${props.picture.images.url})`,
          backgroundSize: 'cover',
          backgroundRepeat: 'no-repeat',
          backgroundPosition: '50% 60%'
